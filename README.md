@@ -1,0 +1,1 @@
+# Prediction-Of-Full-Load-Electrical-Power-Output-combined-cycle-power-plant-mechine-learning
